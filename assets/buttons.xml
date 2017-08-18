@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="fb0000" x="0" y="0" width="246" height="50" pivotX="0" pivotY="0"/>
+	<SubTexture name="gender0000" x="248" y="0" width="141" height="371" pivotX="0" pivotY="0"/>
+	<SubTexture name="gender0001" x="248" y="0" width="141" height="371"/>
+	<SubTexture name="gender0002" x="248" y="0" width="141" height="371"/>
+	<SubTexture name="live0000" x="0" y="373" width="346" height="70" pivotX="0" pivotY="0"/>
+	<SubTexture name="live0001" x="0" y="445" width="346" height="70"/>
+	<SubTexture name="live0002" x="0" y="445" width="346" height="70"/>
+	<SubTexture name="next0000" x="0" y="517" width="205" height="56" pivotX="0" pivotY="0"/>
+	<SubTexture name="next0001" x="207" y="517" width="205" height="56"/>
+	<SubTexture name="next0002" x="207" y="517" width="205" height="56"/>
+	<SubTexture name="replay10000" x="0" y="575" width="205" height="56" pivotX="0" pivotY="0"/>
+	<SubTexture name="replay10001" x="207" y="575" width="205" height="56"/>
+	<SubTexture name="replay10002" x="207" y="575" width="205" height="56"/>
+	<SubTexture name="replay20000" x="0" y="633" width="335" height="67" pivotX="0" pivotY="0"/>
+	<SubTexture name="replay20001" x="0" y="702" width="335" height="67"/>
+	<SubTexture name="replay20002" x="0" y="702" width="335" height="67"/>
+	<SubTexture name="submit0000" x="0" y="771" width="321" height="56" pivotX="0" pivotY="0"/>
+	<SubTexture name="submit0001" x="0" y="829" width="321" height="56"/>
+	<SubTexture name="submit0002" x="0" y="829" width="321" height="56"/>
+	<SubTexture name="tw0000" x="0" y="887" width="246" height="49" pivotX="0" pivotY="0"/>
+</TextureAtlas>

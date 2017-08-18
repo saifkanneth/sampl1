@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waveAnim.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="waveAnim00" x="0" y="0" width="962" height="635" pivotX="162.55" pivotY="-109.2" frameX="-90" frameY="-1" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim01" x="964" y="0" width="1057" height="632" frameX="0" frameY="-4" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim02" x="2023" y="0" width="1030" height="629" frameX="-30" frameY="-7" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim03" x="3055" y="0" width="1002" height="626" frameX="-60" frameY="-10" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim04" x="0" y="637" width="973" height="626" frameX="-90" frameY="-10" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim05" x="975" y="637" width="970" height="619" frameX="-90" frameY="-17" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim06" x="1947" y="637" width="1058" height="614" frameX="0" frameY="-22" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim07" x="3007" y="637" width="1027" height="613" frameX="-30" frameY="-23" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim08" x="0" y="1265" width="958" height="606" frameX="-60" frameY="-30" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim09" x="960" y="1265" width="928" height="611" frameX="-90" frameY="-25" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim10" x="1890" y="1265" width="933" height="611" frameX="-90" frameY="-25" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim11" x="2825" y="1265" width="1033" height="621" frameX="0" frameY="-15" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim12" x="0" y="1888" width="1011" height="629" frameX="-30" frameY="-7" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim13" x="1013" y="1888" width="985" height="634" frameX="-60" frameY="-2" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim14" x="2000" y="1888" width="957" height="636" frameX="-90" frameY="0" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim15" x="2959" y="1888" width="962" height="635" frameX="-90" frameY="-1" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim16" x="0" y="2526" width="1057" height="632" frameX="0" frameY="-4" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim17" x="1059" y="2526" width="1030" height="629" frameX="-30" frameY="-7" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim18" x="2091" y="2526" width="1002" height="626" frameX="-60" frameY="-10" frameWidth="1063" frameHeight="636"/>
+	<SubTexture name="waveAnim19" x="3095" y="2526" width="973" height="626" frameX="-90" frameY="-10" frameWidth="1063" frameHeight="636"/>
+</TextureAtlas>

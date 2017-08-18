@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterFemale.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="female00" x="0" y="0" width="268" height="151" pivotX="236.55" pivotY="2.05" frameX="0" frameY="-151" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female01" x="270" y="0" width="233" height="202" frameX="-52" frameY="-73" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female02" x="505" y="0" width="192" height="255" frameX="-170" frameY="-20" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female03" x="699" y="0" width="150" height="270" frameX="-229" frameY="-5" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female04" x="851" y="0" width="151" height="269" frameX="-227" frameY="-6" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female05" x="0" y="272" width="150" height="274" frameX="-229" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female06" x="152" y="272" width="147" height="275" frameX="-232" frameY="0" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female07" x="301" y="272" width="148" height="274" frameX="-238" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female08" x="451" y="272" width="156" height="274" frameX="-234" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female09" x="609" y="272" width="158" height="272" frameX="-241" frameY="-3" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female10" x="769" y="272" width="156" height="264" frameX="-257" frameY="-11" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female11" x="0" y="549" width="157" height="270" frameX="-247" frameY="-5" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female12" x="159" y="549" width="155" height="272" frameX="-241" frameY="-3" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female13" x="316" y="549" width="160" height="275" frameX="-225" frameY="0" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female14" x="478" y="549" width="154" height="275" frameX="-229" frameY="0" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female15" x="634" y="549" width="149" height="274" frameX="-239" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female16" x="785" y="549" width="137" height="274" frameX="-245" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female17" x="0" y="826" width="138" height="274" frameX="-236" frameY="-2" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female18" x="140" y="826" width="149" height="274" frameX="-231" frameY="-2" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female19" x="291" y="826" width="154" height="275" frameX="-235" frameY="0" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female20" x="447" y="826" width="160" height="275" frameX="-233" frameY="0" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female21" x="609" y="826" width="154" height="272" frameX="-223" frameY="-3" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female22" x="765" y="826" width="157" height="270" frameX="-215" frameY="-5" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female23" x="0" y="1103" width="156" height="264" frameX="-206" frameY="-11" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female24" x="158" y="1103" width="158" height="272" frameX="-220" frameY="-3" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female25" x="318" y="1103" width="156" height="274" frameX="-229" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female26" x="476" y="1103" width="148" height="274" frameX="-233" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female27" x="626" y="1103" width="146" height="275" frameX="-240" frameY="0" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female28" x="774" y="1103" width="149" height="274" frameX="-240" frameY="-1" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female29" x="0" y="1380" width="152" height="269" frameX="-240" frameY="-6" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female30" x="154" y="1380" width="150" height="270" frameX="-240" frameY="-5" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female31" x="306" y="1380" width="192" height="255" frameX="-256" frameY="-20" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female32" x="500" y="1380" width="232" height="202" frameX="-332" frameY="-73" frameWidth="608" frameHeight="304"/>
+	<SubTexture name="female33" x="734" y="1380" width="268" height="150" frameX="-340" frameY="-154" frameWidth="608" frameHeight="304"/>
+</TextureAtlas>

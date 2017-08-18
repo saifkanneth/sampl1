@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rearWave.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="rearWave00" x="0" y="0" width="313" height="155" pivotX="155.8" pivotY="79.65" frameX="0" frameY="-2" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave01" x="315" y="0" width="311" height="153" frameX="-1" frameY="-4" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave02" x="628" y="0" width="311" height="152" frameX="-1" frameY="-5" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave03" x="0" y="157" width="311" height="151" frameX="-1" frameY="-6" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave04" x="313" y="157" width="311" height="150" frameX="-1" frameY="-7" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave05" x="626" y="157" width="311" height="149" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave06" x="0" y="310" width="311" height="149" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave07" x="313" y="310" width="311" height="149" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave08" x="626" y="310" width="311" height="149" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave09" x="0" y="461" width="311" height="149" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave10" x="313" y="461" width="313" height="150" frameX="-1" frameY="-7" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave11" x="628" y="461" width="316" height="152" frameX="-1" frameY="-5" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave12" x="0" y="615" width="318" height="153" frameX="-1" frameY="-4" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave13" x="320" y="615" width="320" height="154" frameX="-1" frameY="-3" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave14" x="642" y="615" width="323" height="157" frameX="0" frameY="0" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave15" x="0" y="774" width="324" height="154" frameX="-1" frameY="-3" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave16" x="326" y="774" width="325" height="153" frameX="-1" frameY="-4" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave17" x="653" y="774" width="326" height="152" frameX="-1" frameY="-5" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave18" x="0" y="930" width="325" height="150" frameX="-1" frameY="-6" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave19" x="327" y="930" width="324" height="148" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave20" x="653" y="930" width="323" height="148" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave21" x="0" y="1082" width="322" height="148" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave22" x="324" y="1082" width="321" height="148" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave23" x="647" y="1082" width="320" height="148" frameX="-1" frameY="-8" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave24" x="0" y="1232" width="318" height="149" frameX="-1" frameY="-7" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave25" x="320" y="1232" width="317" height="149" frameX="-1" frameY="-7" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave26" x="639" y="1232" width="316" height="150" frameX="-1" frameY="-6" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave27" x="0" y="1384" width="314" height="151" frameX="-1" frameY="-5" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave28" x="316" y="1384" width="312" height="152" frameX="-1" frameY="-4" frameWidth="327" frameHeight="157"/>
+	<SubTexture name="rearWave29" x="630" y="1384" width="311" height="153" frameX="-1" frameY="-3" frameWidth="327" frameHeight="157"/>
+</TextureAtlas>

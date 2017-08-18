@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterMale.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="male00" x="0" y="0" width="267" height="216" pivotX="240.35" pivotY="0" frameX="0" frameY="-131" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male01" x="269" y="0" width="260" height="225" frameX="-28" frameY="-98" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male02" x="531" y="0" width="227" height="244" frameX="-100" frameY="-39" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male03" x="760" y="0" width="204" height="274" frameX="-159" frameY="-9" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male04" x="966" y="0" width="199" height="281" frameX="-181" frameY="-2" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male05" x="1167" y="0" width="186" height="278" frameX="-207" frameY="-5" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male06" x="1355" y="0" width="185" height="275" frameX="-209" frameY="-8" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male07" x="1542" y="0" width="208" height="274" frameX="-211" frameY="-9" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male08" x="1752" y="0" width="219" height="272" frameX="-215" frameY="-11" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male09" x="0" y="283" width="219" height="274" frameX="-215" frameY="-9" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male10" x="221" y="283" width="226" height="268" frameX="-224" frameY="-15" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male11" x="449" y="283" width="223" height="269" frameX="-229" frameY="-13" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male12" x="674" y="283" width="213" height="273" frameX="-222" frameY="-9" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male13" x="889" y="283" width="211" height="275" frameX="-214" frameY="-8" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male14" x="1102" y="283" width="220" height="277" frameX="-197" frameY="-5" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male15" x="1324" y="283" width="201" height="278" frameX="-220" frameY="-5" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male16" x="1527" y="283" width="187" height="284" frameX="-239" frameY="0" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male17" x="1716" y="283" width="187" height="284" frameX="-239" frameY="0" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male18" x="0" y="569" width="201" height="278" frameX="-242" frameY="-5" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male19" x="203" y="569" width="220" height="277" frameX="-245" frameY="-5" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male20" x="425" y="569" width="212" height="275" frameX="-238" frameY="-7" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male21" x="639" y="569" width="214" height="273" frameX="-228" frameY="-10" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male22" x="855" y="569" width="224" height="269" frameX="-212" frameY="-14" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male23" x="1081" y="569" width="226" height="268" frameX="-213" frameY="-15" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male24" x="1309" y="569" width="219" height="273" frameX="-229" frameY="-10" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male25" x="1530" y="569" width="219" height="273" frameX="-229" frameY="-10" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male26" x="1751" y="569" width="208" height="274" frameX="-244" frameY="-9" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male27" x="0" y="849" width="184" height="275" frameX="-269" frameY="-8" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male28" x="186" y="849" width="186" height="278" frameX="-270" frameY="-5" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male29" x="374" y="849" width="199" height="282" frameX="-283" frameY="-2" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male30" x="575" y="849" width="204" height="273" frameX="-298" frameY="-10" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male31" x="781" y="849" width="227" height="244" frameX="-314" frameY="-39" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male32" x="1010" y="849" width="260" height="225" frameX="-338" frameY="-96" frameWidth="636" frameHeight="347"/>
+	<SubTexture name="male33" x="1272" y="849" width="268" height="216" frameX="-368" frameY="-130" frameWidth="636" frameHeight="347"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boardSplash.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="boardSplash00" x="0" y="0" width="249" height="75" pivotX="-12.05" pivotY="-1" frameX="0" frameY="0" frameWidth="249" frameHeight="78"/>
+	<SubTexture name="boardSplash01" x="0" y="0" width="249" height="75" frameX="0" frameY="0" frameWidth="249" frameHeight="78"/>
+	<SubTexture name="boardSplash02" x="0" y="77" width="249" height="75" frameX="0" frameY="0" frameWidth="249" frameHeight="78"/>
+	<SubTexture name="boardSplash03" x="0" y="77" width="249" height="75" frameX="0" frameY="0" frameWidth="249" frameHeight="78"/>
+	<SubTexture name="boardSplash04" x="0" y="154" width="249" height="75" frameX="0" frameY="0" frameWidth="249" frameHeight="78"/>
+	<SubTexture name="boardSplash05" x="0" y="154" width="249" height="75" frameX="0" frameY="0" frameWidth="249" frameHeight="78"/>
+	<SubTexture name="boardSplash06" x="0" y="231" width="249" height="78"/>
+	<SubTexture name="boardSplash07" x="0" y="231" width="249" height="78"/>
+</TextureAtlas>
