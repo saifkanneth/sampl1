@@ -255,7 +255,7 @@ $id2="";
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title text-center">TERMS & CONDITIONS2</h4>
+                <h4 class="modal-title text-center">TERMS & CONDITIONS23</h4>
             </div>
             <div class="modal-body">
                 <p style="text-align: left;">1. This promotion is in no way sponsored, endorsed or administered by, or associated with, Facebook.</p>
